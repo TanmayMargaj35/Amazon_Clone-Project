@@ -1,0 +1,1 @@
+Amazon Clone built using HTML & CSS only. Features a responsive homepage, product listings, navbar, banner, footer, and grid-based layout. Fully static with no backend. Designed to mimic Amazon’s UI with a clean, modern look. Deployed for practice and learning. 🚀✨
